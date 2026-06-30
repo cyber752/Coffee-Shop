@@ -28,11 +28,11 @@ To run this project locally, you don't need any complex build tools or servers. 
 
 1. **Clone the repository** (or download the ZIP):
    ```bash
-   git clone https://github.com/your-username/coffee-shop-app.git
+   git clone https://github.com/cyber752/coffee-shop.git
    ```
 2. **Navigate to the folder**:
    ```bash
-   cd coffee-shop-app
+   cd coffee-shop
    ```
 3. **Open the App**: 
    Simply double-click `index.html` to open it in your default web browser, or drag and drop it into a new tab!
