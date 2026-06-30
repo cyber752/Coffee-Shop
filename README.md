@@ -2,7 +2,7 @@
   <h1>☕ Coffee Shop App</h1>
   <p>A beautiful, interactive single-page application for customizing your perfect coffee order.</p>
 
-  <a href="https://your-live-demo-link.com" target="_blank">
+  <a href="https://cyber752.github.io/Coffee-Shop/" target="_blank">
     <img src="https://img.shields.io/badge/View_Live_Demo-Click_Here-1db954?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
   <br />
